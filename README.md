@@ -1,4 +1,4 @@
 nreinas
 =======
 
-Solucion a nreinas por fuerza bruta
+Implementacion del problemas de las N reinas por fuerza bruta

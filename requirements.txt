@@ -1,0 +1,7 @@
+argparse==1.2.1
+-e git://github.com/janitux/benchy.git#egg=benchy-dev
+matplotlib==1.2.1
+memory-profiler==0.26
+numpy==1.7.1
+psutil==0.7.0
+wsgiref==0.1.2
